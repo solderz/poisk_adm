@@ -1,3 +1,3 @@
 print('heo')
 print('asds')
-prin
+printik
