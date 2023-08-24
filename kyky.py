@@ -1,2 +1,2 @@
-print('kuku)
+print('kuku')
 print('kikis')
