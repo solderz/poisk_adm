@@ -1,6 +1,5 @@
-print('he22222o')
-print('asds')
-print('Teper pravilon!')
+print('hcheto22o')
+print('ahorosho')
+print('Tupsson!')
 print()
-print()
-print()
+
