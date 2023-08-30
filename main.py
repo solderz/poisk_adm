@@ -1,6 +1,6 @@
 print('Новая зdadsasdапись в вслияение')
 print('Втораasddя строчка в слияние')
-print('ahorosho')
+print('ahorofdvdsho')
 print('Tupsson!dasd')
 print()
 
