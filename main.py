@@ -1,4 +1,4 @@
-print('Новая запись в первой строчке')
+print('Новая запись в вслияение')
 print('hcheto22o')
 >>>>>>> master
 print('ahorosho')
