@@ -1,5 +1,5 @@
 print('Новая запись в вслияение')
-print('hcheto22o')
+print('Вторая строчка в слияние')
 >>>>>>> master
 print('ahorosho')
 print('Tupsson!dasd')
