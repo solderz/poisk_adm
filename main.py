@@ -1,4 +1,4 @@
-print('проверка')
+print('проверкапш')
 print('hcheto22o')
 print('ahorosho')
 print('Tupsson!dasd')
