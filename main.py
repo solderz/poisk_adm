@@ -1,5 +1,5 @@
 print('Vetka slienie')
-print('hcheto22o')
+print('ranie stroki')
 print('ahorosho')
 print('Tupsson!dasd')
 print()
