@@ -1,4 +1,4 @@
-print('новая  в мастере')
+print('новая  в мастере еще новее')
 print('asddя строчка в слияние')
 print('ahorosho')
 print('Tupsson!dasd')
