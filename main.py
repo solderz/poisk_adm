@@ -1,4 +1,4 @@
-print('проверкапш')
+print('Новая запись в первой строчке')
 print('hcheto22o')
 >>>>>>> master
 print('ahorosho')
